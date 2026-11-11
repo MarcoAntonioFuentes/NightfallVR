@@ -1,0 +1,22 @@
+NIGHTFALL VR 3.0 · CONTRAATAQUE
+
+APK: NightfallVR-3.apk
+Android 8 o posterior, procesador ARM64.
+
+1. Copia NightfallVR-3.apk al teléfono, por cable o mediante el medio que prefieras.
+2. Abre el archivo en el teléfono y sigue la instalación que muestra Android.
+3. Abre Nightfall VR. Empieza en pantalla normal.
+4. Gira el teléfono para mirar y toca los objetos. Sin sensor de orientación, arrastra para mirar.
+5. Pulsa INICIAR MISIÓN. Sigue las pistas breves del asistente.
+6. Para usar Cardboard, selecciona MODO VISOR antes de colocar el teléfono y escanea el QR del visor cuando se solicite.
+7. En VR, mira una acción 1,35 segundos o pulsa el botón del visor. Aparta la mirada para repetir. CENTRAR reorienta la vista.
+
+Recorrido
+Ataque breve > tres evidencias > desconectar enlace > memorizar luces MFA > pulso verde > SIEM 1-2-3 > cinco oleadas > resultado.
+
+En el contraataque, activa el módulo iluminado. Encadena aciertos para subir la racha y reacciona rápido para ganar puntos extra.
+
+La misión pasó 20 comprobaciones automatizadas en Unity. Falta probar sensores, lentes, tacto y rendimiento en el teléfono real.
+
+Proyecto y guía: Assets/CyberShield/NIGHTFALL-ANDROID.md
+Escena: Assets/CyberShield/Scenes/DataCenter_Nightfall_Android.unity

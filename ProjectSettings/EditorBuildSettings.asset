@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/CyberShield/Scenes/DataCenter_Nightfall_Android.unity
+    guid: 5cf358f13aa99f64f901f67d7d8b23dc
+  - enabled: 1
+    path: Assets/CyberShield/Scenes/DataCenter_VR.unity
+    guid: 7d3e1611c8ac4694a8275fdb3a9ffca0
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 55daccc09a3b69647bbab145b54a3ab3
+  - enabled: 1
+    path: Assets/CyberShield/Scenes/CyberShieldVR.unity
+    guid: 3949645833cd3c74ba9d21425616611e
+  - enabled: 1
+    path: Assets/CyberShield/Scenes/CyberShieldVR_Operations.unity
+    guid: 14fdcf38cab5ffa468c97374cde10121
+  - enabled: 1
+    path: Assets/CyberShield/Scenes/CyberShieldVR_HandsOn.unity
+    guid: 5bc6ca165b0ca23499182bd07f685847
+  - enabled: 1
+    path: Assets/CyberShield/Scenes/CyberShieldVR_Nexora.unity
+    guid: 18c44dfd1232570488ffeed5a0e155d8
+  - enabled: 1
+    path: Assets/CyberShield/Scenes/CyberShieldVR_Arcade.unity
+    guid: 9e838a17f126f644ab8736e439755b50
+  - enabled: 1
+    path: Assets/CyberShield/Scenes/CyberShieldVR_Dynamic.unity
+    guid: 77e314435b94cf641aaf171b235ab5b8
+  - enabled: 1
+    path: Assets/CyberShield/Scenes/CyberShieldVR_Cinema.unity
+    guid: 55a5c92cca303394a997e0ed3cd992d8
+  - enabled: 1
+    path: Assets/CyberShield/Scenes/CyberShieldVR_NightBreach.unity
+    guid: e15efc25e6d30e04781c13f411348e31
+  - enabled: 1
+    path: Assets/CyberShield/Scenes/CyberShieldVR_ShieldOps.unity
+    guid: 0eca7db71bae3fa4ea10b193d7e1c7ae
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260, type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: dc5a169419fa04987b057f65238cf3ba, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 9bec1ce6a03ccba4b9a8215241b32e63, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: a49cadc1a815591479693b955ccf08c1, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 640e2e506feba224c91c4298a36d8cff, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 985fdffee33a5944396199c6b7145dd4, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 908d62378b8205449861e5838a18a596, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4b3de149e50ea0c4f8ad04c79b9f12ec, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 3dd11dcd12272e54f8a19d8224e35f53, type: 2}
+  m_UseUCBPForAssetBundles: 0

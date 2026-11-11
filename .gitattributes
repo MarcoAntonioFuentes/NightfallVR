@@ -1,0 +1,9 @@
+* text=auto
+*.unity text eol=lf
+*.prefab text eol=lf
+*.meta text eol=lf
+*.a binary
+*.so binary
+*.aar binary
+*.fbx binary
+*.unitypackage binary
